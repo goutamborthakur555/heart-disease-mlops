@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/rbg40/Downloads/heart-disease-mlops/mlruns/642313592701396921/8ce9b09578e64347806f510717103713/artifacts
+end_time: 1767106442130
+entry_point_name: ''
+experiment_id: '642313592701396921'
+lifecycle_stage: active
+run_id: 8ce9b09578e64347806f510717103713
+run_name: Random_Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767106437649
+status: 3
+tags: []
+user_id: rbg40
